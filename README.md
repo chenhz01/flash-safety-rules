@@ -7,6 +7,8 @@ Pure offline planning — this tool never talks to hardware.
 Use it when an AI agent (or a tired human) is about to flash firmware, and you
 want "never trust the flasher's OKAY" enforced mechanically instead of hoped for.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Agents executing hardware writes fail in a characteristic way: they trust the
